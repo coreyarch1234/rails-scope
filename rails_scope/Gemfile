@@ -24,8 +24,10 @@ gem 'coffee-rails', '~> 4.2'
 #for rails console
 gem 'rb-readline'
 
+
 #api calls
 gem 'rest-client'
+gem 'httparty'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
